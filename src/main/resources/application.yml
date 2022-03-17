@@ -1,0 +1,4 @@
+spring:
+  sleuth:
+    tx:
+      enabled: true
